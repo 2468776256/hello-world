@@ -1,6 +1,6 @@
 # hello-world
 # 奇数幻方
-
+# test 1
 def output(test,n):      #打印幻方
     i=0
     while i<n :
