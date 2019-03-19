@@ -1,5 +1,5 @@
 # hello-world
-#奇数幻方
+#  奇数幻方
 
 def output(test,n):      #打印幻方
     i=0
